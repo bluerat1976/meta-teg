@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: lightgray;
+}
+
+input,
+textarea {
+    display: block;
+}
+input[type="radio"] {
+    display: inline-block;
+}
